@@ -1,5 +1,5 @@
 import React from "react";
-import { Button } from "@/components/ui/button"; // Import shadcn Button
+import { Button } from "@/components/ui/button";
 
 import woodenChair from "../assets/image/chair4.jpg";
 import modernChair from "../assets/image/chair.webp";
@@ -91,7 +91,6 @@ const Products = () => {
             </h3>
             <p className="text-gray-500 text-sm">{product.category}</p>
             <p className="text-gray-600 mt-1">{product.price}</p>
-
             <Button className="mt-4 w-full">Add to Cart</Button>
           </div>
         ))}
