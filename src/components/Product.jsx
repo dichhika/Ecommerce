@@ -5,8 +5,8 @@ import woodenChair from "../assets/image/Chairss.jpg";
 import modernChair from "../assets/image/chair.webp";
 import queenBed from "../assets/image/bed.webp";
 import singleBed from "../assets/image/bed.jpg";
-import deskLamp from "../assets/image/lamp.webp";
-import nightLamp from "../assets/image/lamp2.webp";
+import deskLamp from "../assets/image/Lamp.webp";
+import nightLamp from "../assets/image/Lamp2.webp";
 import diningTable from "../assets/image/dinning.avif";
 import coffeeTable from "../assets/image/table2.jpg";
 
