@@ -1,7 +1,7 @@
 import React from "react";
 import { Button } from "../components/ui/button";
 
-import woodenChair from "../assets/image/chair4.jpg";
+import woodenChair from "../assets/image/Chairss.jpg";
 import modernChair from "../assets/image/chair.webp";
 import queenBed from "../assets/image/bed.webp";
 import singleBed from "../assets/image/bed.jpg";
